@@ -37,10 +37,10 @@ ___
 
 #### License 
 
-[Auburn University](/LICENSE)
+[Auburn University]
 
 ___
 
 #### Author
 
-[Le Cai](/IMURAH)
+[Le Cai]
