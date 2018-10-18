@@ -1,0 +1,14 @@
+#lang racket
+(require (planet dyoo/simply-scheme:1:2/simply-scheme))
+
+(define (ball-val ball)
+  (let ( [R 10]
+         [G 15]
+         [B 20]
+         [W 1])
+    (case ball
+      (('R) (displayln 10))
+      (('G) (displayln 15))
+      (('B) (displayln 20))
+      (('W) (displayln 1))
+      (else (displayln 0)))
